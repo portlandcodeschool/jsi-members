@@ -7,7 +7,6 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
-
 Samuel Averett
 
 Carlo De Gregorio
@@ -16,10 +15,9 @@ Adam Horak
 
 Tian Song
 
-Josh (j.allentucker@gmail.com)
+Josh Tucker (j.allentucker@gmail.com)
 
 Dmitry White
-
 
 ### Instructor
 
