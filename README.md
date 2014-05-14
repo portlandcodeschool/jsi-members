@@ -6,17 +6,18 @@ contain syntax errors, or only be a partial solution. You should not base code
 off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
-Carlo De Gregorio
 
 Josh (j.allentucker@gmail.com)
 
 Samuel Averett
 
+Carlo De Gregorio
+
+Adam Horak
+
 Tian Song
 
 Dmitry White
-
-Adam Horak
 
 ### Instructor
 
