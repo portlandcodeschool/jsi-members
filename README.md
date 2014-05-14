@@ -12,3 +12,6 @@ off of this and absolutely should not use it in production.
 Whitney Young  
 whitney@portlandcodeschool.com
 
+
+Sam's changes to the readme.md
+
