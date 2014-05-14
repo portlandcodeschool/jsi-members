@@ -6,17 +6,19 @@ contain syntax errors, or only be a partial solution. You should not base code
 off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
+
+Samuel Averett
+
 Adam Horak
 
 Carlo De Gregorio
 
-Dmitry White
-
 Josh Tucker (j.allentucker@gmail.com)
 
-Samuel Averett
-
 Tian Song
+
+Dmitry White
+
 
 ### Instructor
 
