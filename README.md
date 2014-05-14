@@ -15,7 +15,7 @@ Adam Horak
 
 Tian Song
 
-Josh (j.allentucker@gmail.com)
+Josh Tucker
 
 Dmitry White
 
