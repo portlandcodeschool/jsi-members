@@ -7,8 +7,9 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+Ariel Spear
+
 ### Instructor
 
 Whitney Young  
 whitney@portlandcodeschool.com
-
