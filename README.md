@@ -7,7 +7,10 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+
 Stephen Young
+
+Austin Trafficante
 
 Samuel Averett
 
@@ -22,6 +25,8 @@ Grant Stampfli
 Josh Tucker (j.allentucker@gmail.com)
 
 Dmitry White
+
+Andrea Moulding
 
 ### Instructor
 
