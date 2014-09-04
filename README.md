@@ -7,6 +7,8 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+Stephen Young
+
 Samuel Averett
 
 Carlo De Gregorio
