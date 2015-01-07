@@ -7,6 +7,9 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+Alan Rahi
+alan@webfordoctors.com
+
 David Hasenjaeger
 davehasen@gmaill.com
 
@@ -15,6 +18,7 @@ bj4242@gmail.com
 
 Miles Hochstein
 miles.hochstein@gmail.com
+
 Mike Burnett
 
 Wendy Beck
@@ -26,3 +30,7 @@ Aaron Ollis
 
 Andrew Lorente
 alorente@portlandcodeschool.com
+
+
+
+
