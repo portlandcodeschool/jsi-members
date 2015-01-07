@@ -8,12 +8,13 @@ off of this and absolutely should not use it in production.
 ## JavaScript Immersion Members
 
 
+Matt Cordeiro  
+mattc@subtledigital.com  
+
 ### Instructor
 
 Andrew Lorente
 alorente@portlandcodeschool.com
 
-Matt Cordeiro  
-mattc@subtledigital.com  
 
 
