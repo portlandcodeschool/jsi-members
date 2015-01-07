@@ -8,19 +8,17 @@ off of this and absolutely should not use it in production.
 ## JavaScript Immersion Members
 
 
-
 Russ DuBrock
 russell.dubrock@gmail.com
 
-=======
-=======
+Seth Shober
+
 David Hasenjaeger
 davehasen@gmaill.com
 
 Bryce Johnson
 bj4242@gmail.com  
 
->>>>>>> pcs/master
 Miles Hochstein
 miles.hochstein@gmail.com
 Mike Burnett
@@ -29,9 +27,11 @@ Wendy Beck
 webeck@gmail.com
 
 Aaron Ollis
->>>>>>> pcs/master
+
+[Nic Wolf](https://github.com/Nic-Wolf)
 
 ### Instructor
 
 Andrew Lorente
 alorente@portlandcodeschool.com
+
