@@ -13,3 +13,7 @@ off of this and absolutely should not use it in production.
 Andrew Lorente
 alorente@portlandcodeschool.com
 
+Matt Cordeiro  
+mattc@subtledigital.com  
+
+
