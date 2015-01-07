@@ -7,9 +7,16 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+Miles Hochstein
+miles.hochstein@gmail.com
+
+Aaron Ollis
 
 Matt Cordeiro  
 mattc@subtledigital.com  
+
+Wendy Beck
+webeck@gmail.com
 
 ### Instructor
 
