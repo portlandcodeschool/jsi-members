@@ -7,9 +7,14 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+Alan Rahi
+alan@webfordoctors.com
+
 
 ### Instructor
 
 Andrew Lorente
 alorente@portlandcodeschool.com
+
+
 
