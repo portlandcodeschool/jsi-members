@@ -7,9 +7,17 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+
 Alan Rahi
 alan@webfordoctors.com
 
+Miles Hochstein
+miles.hochstein@gmail.com
+
+Wendy Beck
+webeck@gmail.com
+
+Aaron Ollis
 
 ### Instructor
 
