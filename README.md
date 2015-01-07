@@ -12,10 +12,16 @@ miles.hochstein@gmail.com
 
 Aaron Ollis
 
+Matt Cordeiro  
+mattc@subtledigital.com  
+
+Wendy Beck
+webeck@gmail.com
+
 ### Instructor
 
 Andrew Lorente
 alorente@portlandcodeschool.com
 
-Wendy Beck
-webeck@gmail.com
+
+
