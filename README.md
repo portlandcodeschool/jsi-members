@@ -21,5 +21,3 @@ Wendy Beck
 webeck@gmail.com
 
 
-
-MILES ADDS SOME TEST WORDS
