@@ -22,12 +22,11 @@ webeck@gmail.com
 
 Aaron Ollis
 
+Michael Montero: mmontero2012@gmail.com
 ### Instructor
 
 Andrew Lorente
 alorente@portlandcodeschool.com
 
-Michael Montero
-mmontero2012@gmail.com
 =======
 
