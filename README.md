@@ -7,11 +7,24 @@ off of this and absolutely should not use it in production.
 
 ## JavaScript Immersion Members
 
+<<<<<<< HEAD
 Aaron Ollis 	aaronollis121@gmail.com
+=======
+Bryce Johnson
+bj4242@gmail.com  
 
+Miles Hochstein
+miles.hochstein@gmail.com
+Mike Burnett
+>>>>>>> pcs/master
+
+Wendy Beck
+webeck@gmail.com
+
+Aaron Ollis
+aaronollis121@gmail.com
 
 ### Instructor
 
 Andrew Lorente
 alorente@portlandcodeschool.com
-
