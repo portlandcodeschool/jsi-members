@@ -10,6 +10,11 @@ off of this and absolutely should not use it in production.
 
 =======
 
+[Curt Poff] (https://github.com/cpoff)
+curt.poff@gmail.com
+
+=======
+
 Seth Shober
 
 David Hasenjaeger
